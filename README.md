@@ -41,7 +41,9 @@ A **MERN-based ride-sharing platform** integrated with **Firebase Authentication
 ## 📸 Screenshots & Feature Overview
 
 ### 🏠 Landing Page – Seamless Ride-Sharing Experience
+
 ![Landing Page](./frontend/sc1.jpeg)
+
 The **landing page** serves as the first touchpoint for users. It highlights the platform’s core functionality, allowing users to either **find a ride** as a passenger or **become a captain (driver)**. The UI is designed to be clean and engaging, ensuring new users can navigate effortlessly.
 
 - **Quick Access to Booking:** Users can immediately start the booking process.
@@ -51,7 +53,9 @@ The **landing page** serves as the first touchpoint for users. It highlights the
 ---
 
 ### 🚗 Rider Booking Dashboard – Real-Time Ride Selection & Booking
+
 ![Rider Dashboard](./frontend/sc2.jpeg)
+
 The **rider dashboard** provides a powerful yet simple interface to **book rides in real time**.
 
 - **Interactive Map View:** Displays the route and available drivers using **Google Maps API & Mapbox**.
@@ -64,7 +68,9 @@ The real-time route display ensures riders can **visualize their trip before con
 ---
 
 ### 🚖 Captain Dashboard – Managing Rides, Earnings & Navigation
+
 ![Captain Dashboard](./frontend/sc3.jpeg)
+
 The **captain dashboard** is designed for drivers, providing essential tools to **accept rides, track earnings, and navigate efficiently**.
 
 - **Ride Requests in Real Time:** Captains can view new ride requests and **accept or reject** them.
@@ -75,6 +81,3 @@ The **captain dashboard** is designed for drivers, providing essential tools to 
 This dashboard enhances **captains' workflow**, ensuring smooth and efficient ride management.
 
 ---
-
-_(Place the images in a `screenshots/` folder in your GitHub repository for proper display.)_
-
